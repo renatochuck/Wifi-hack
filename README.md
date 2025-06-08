@@ -39,3 +39,17 @@ This tool simulates Wi-Fi network attacks in a terminal interface, including:
 
 ```bash
 pip3 install colorama
+Usage
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/renatochuck/Wifi-hack.git
+cd Wifi-hack
+Run the script:
+
+bash
+Copy
+Edit
+python3 wifi_attack_sim.py
