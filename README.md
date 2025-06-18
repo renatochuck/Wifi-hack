@@ -1,6 +1,6 @@
 
 
-# Wi-Fi Attack Simulation Tool
+# Wi-Fi Attack Tool
 
 A **simulated Wi-Fi attack tool** for ethical learning and demonstration purposes only.  
 **Author:** @renatochuck
